@@ -1,0 +1,12 @@
+[user]
+indicatorStyle=0
+indicatorOrientation=3
+indicatorColor=rgb(76,166,230)
+inactiveColor=rgb(255,163,72)
+forceIconSize=false
+iconSize=24
+onlyDisplayVisible=true
+showWindowCount=true
+showPreviews=true
+keyComboActive=false
+keyAloneActive=false
