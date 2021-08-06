@@ -1,0 +1,11 @@
+Package: breath-os-default-settings
+Version: ${ver}
+Installed-Size: ${size}
+Maintainer: Roman Tolstosheyev <izobretatel777@mail.ru>
+Source: https://github.com/BreathOS/breath-os-default-settings
+Homepage: https://breathos.github.io/xfce4-docklike-plugin
+Depends: compton, xfce4-screenshooter, xfce4-xkb-plugin, xfce4-whiskermenu-plugin, xfce4-power-manager, xfce4-clipman-plugin, xfce4-docklike-plugin
+Architecture: amd64
+Priority: optional
+Description: Default settings for the Breath OS (themes, panel and menu layout, etc).
+
